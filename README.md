@@ -11,18 +11,9 @@ Hello There! I'm **Ey3LGreeN**
 -  **Hobbies :** I like to play BasketBall, Coding and go to Gym
 -  **Fun fact :** I'm a BasketBall player for 15 years🏀, I'm a Javascript Developer for 6 years👩‍💻
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1135627677441736704?theme=dark&bg=000&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/1135627677441736704)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1135627677441736704)](https://discord.com/users/1135627677441736704)
 
-[![
-Ey3LGreeNs's github stats](https://github-readme-stats.vercel.app/api?username=
-Ey3LGreeN&count_private=true&show_icons=true&theme=dark)](https://github.com/
-Ey3LGreeN)
-[![
-Ey3LGreeNs's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=
-Ey3LGreeN&layout=compact&langs_count=25&theme=dark)](https://github.com/
-Ey3LGreeN)
-
-[![discordBadge](https://img.shields.io/badge/Chat-Bot%20Service-7289d9?style=for-the-badge&logo=discord)](https://discord.gg/DGeBW6eWUj)
+![Ey3LGreeN's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ey3LGreeN&hide=contribs,prs)
 
 ### Languages & Tools
 
@@ -31,5 +22,4 @@ Ey3LGreeN)
 [<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>](https://code.visualstudio.com/) 
 
 ## Stats
-![](https://komarev.com/ghpvc/?username=
-Ey3LGreeN&color=blue)
+![](https://komarev.com/ghpvc/?username=Ey3LGreeN&style=flat-square)
