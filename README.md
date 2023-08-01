@@ -1,16 +1,35 @@
-### Hi there 👋
+<img src="https://readme-typing-svg.herokuapp.com?font=Impact&size=21&duration=5015&pause=1000&color=FFFFFFFF&center=true&vCenter=true&multiline=true&width=435&lines=hey%2C+welcome+to+my+github"/>
 
-<!--
-**Ey3LGreeN/Ey3LGreeN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello There! I'm **Ey3LGreeN**
+----------------------------------------------------------
+### About me
 
-Here are some ideas to get you started:
+-  **Real Name :** Eyal
+-  **Age :** 18
+-  **Knowledge :** Javascript,TypeScript
+-  **Learning :** Python,Html5,Css3,C#,Csharp
+-  **Hobbies :** I like to play BasketBall, Coding and go to Gym
+-  **Fun fact :** I'm a BasketBall player for 15 years🏀, I'm a Javascript Developer for 6 years👩‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Discord Presence](https://lanyard.cnrad.dev/api/1135627677441736704?theme=dark&bg=000&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/1135627677441736704)
+
+[![
+Ey3LGreeNs's github stats](https://github-readme-stats.vercel.app/api?username=
+Ey3LGreeN&count_private=true&show_icons=true&theme=dark)](https://github.com/
+Ey3LGreeN)
+[![
+Ey3LGreeNs's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=
+Ey3LGreeN&layout=compact&langs_count=25&theme=dark)](https://github.com/
+Ey3LGreeN)
+
+[![discordBadge](https://img.shields.io/badge/Chat-Bot%20Service-7289d9?style=for-the-badge&logo=discord)](https://discord.gg/DGeBW6eWUj)
+
+### Languages & Tools
+
+[<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />](https://www.javascript.com/)
+[<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>](https://nodejs.org/en/) 
+[<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>](https://code.visualstudio.com/) 
+
+## Stats
+![](https://komarev.com/ghpvc/?username=
+Ey3LGreeN&color=blue)
