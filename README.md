@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Impact&size=21&duration=5015&pause=1000&color=FFFFFFFF&center=true&vCenter=true&multiline=true&width=435&lines=hey%2C+welcome+to+my+github"/>
 
-Hello There! I'm **Ey3LGreeN**
+Hello There! I'm **eyalgreenDev**
 ----------------------------------------------------------
 ### About me
 
@@ -13,7 +13,7 @@ Hello There! I'm **Ey3LGreeN**
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1135627677441736704)](https://discord.com/users/1135627677441736704)
 
-![Ey3LGreeN's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ey3LGreeN&hide=contribs,prs)
+![Ey3LGreeN's GitHub stats](https://github-readme-stats.vercel.app/api?username=eyalgreenDev&hide=contribs,prs)
 
 ### Languages & Tools
 
