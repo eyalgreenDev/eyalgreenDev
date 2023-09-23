@@ -6,8 +6,7 @@ Hello There! I'm **eyalgreenDev**
 
 -  **Real Name :** Eyal
 -  **Age :** 18
--  **Knowledge :** Javascript,TypeScript
--  **Learning :** Python,Html5,Css3,C#,Csharp
+-  **Knowledge :** Javascript,TypeScript,HTML,CSS,React,Batchfile
 -  **Hobbies :** I like to play BasketBall, Coding and go to Gym
 -  **Fun fact :** I'm a BasketBall player for 15 years🏀, I'm a Javascript Developer for 6 years👩‍💻
 
