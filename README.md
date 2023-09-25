@@ -27,4 +27,4 @@ Hello There! I'm **eyalgreenDev**
 
 ## Stats
 ![](https://komarev.com/ghpvc/?username=Ey3LGreeN&style=flat-square)
-[![](https://visitcount.itsvg.in/api?id=eyalgreenDev&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=eyalgreenDev&icon=0&color=0)](https://visitcount.itsvg.in)
