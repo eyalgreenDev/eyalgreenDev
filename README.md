@@ -48,3 +48,18 @@
 
 <!-- GitHub Profile Visits Counter -->
 ![](https://visitcount.itsvg.in/api?id=eyalgreenDev&icon=0&color=0)
+
+---
+
+## Go to Top
+[![Go to Top](https://img.shields.io/badge/Go%20to%20Top-%E2%86%91-%23007bff?style=for-the-badge)](#hello-there-im-eyalgreendev)
+
+---
+
+## Read in Your Own Language
+
+- [Read this README in Spanish](#) (Coming Soon)
+- [Read this README in French](#) (Coming Soon)
+- [Read this README in German](#) (Coming Soon)
+- [Read this README in Chinese](#) (Coming Soon)
+
