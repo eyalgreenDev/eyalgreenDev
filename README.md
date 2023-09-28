@@ -107,13 +107,13 @@
     <img alt="English" title="English" 
     src="photos/usa.svg"/>
     </a>
+        <a href="README_ar.md">
+    <img alt="Arbic" title="Arbic" 
+    src="photos/uae.svg"/>
+    </a>
     <a href="README_ru.md">
     <img alt="Russian" title="Russian" 
     src="photos/russia.svg"/>
-    </a>
-    <a href="README_au.md">
-    <img alt="Ukraine" title="Ukraine" 
-    src="photos/Ukraine.svg"/>
     </a>
 </div>
 <!-- Images by thefourcraft -->
