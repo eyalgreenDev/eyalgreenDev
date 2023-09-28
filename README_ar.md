@@ -1,23 +1,23 @@
 <div style="text-align: center;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Impact&size=32&lines=hey%2C+welcome+to+my+github" alt="Typing Animation">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Impact&size=32&lines=مرحبًا%2C+مرحبًا+بك+في+صفحتي+على+GitHub" alt="رسم الكتابة">
 </div>
 
 
 ---
 <div style="text-align: center;">
-    <h2>About Me</h2>
+    <h2>عني</h2>
     <ul>
-        <li>Name: Eyal</li>
-        <li>Age: 18</li>
-        <li>Hobbies: I enjoy playing Basketball, Coding, and going to the Gym</li>
-        <li>Fun Fact: I've been a Basketball player for 15 years 🏀 and a JavaScript Developer for 6 years 👩‍💻</li>
-        <li>1 Day 1 Code 💖</li>
+        <li>الاسم: إيال</li>
+        <li>العمر: 18</li>
+        <li>الهوايات: أحب لعب كرة السلة، والبرمجة، والذهاب إلى الصالة الرياضية</li>
+        <li>حقيقة ممتعة: لعبت كرة السلة لمدة 15 عامًا 🏀 وكنت مطور JavaScript لمدة 6 سنوات 👩‍💻</li>
+        <li>يوم 1 كود 1 💖</li>
     </ul>
 </div>
 
 ---
 <div style="text-align: center;">
-    <h2>Programming Languages</h2>
+    <h2>لغات البرمجة</h2>
     <img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white">
@@ -29,7 +29,7 @@
 
 ---
 <div style="text-align: center;">
-    <h2>Front-End Development</h2>
+    <h2>تطوير الواجهة الأمامية</h2>
     <img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white">
@@ -38,7 +38,7 @@
 
 ---
 <div style="text-align: center;">
-    <h2>Database Technologies</h2>
+    <h2>تقنيات قواعد البيانات</h2>
     <img src="https://img.shields.io/badge/MongoDB-%2317ad55.svg?style=for-the-badge&logo=mongodb&logoColor=white">
     <img src="https://img.shields.io/badge/Sqlite-%2309435b.svg?style=for-the-badge&logo=sqlite&logoColor=white">
     <img src="https://img.shields.io/badge/MYSQL-%23e59008.svg?style=for-the-badge&logo=mysql&logoColor=white">
@@ -46,7 +46,7 @@
 
 ---
 <div style="text-align: center;">
-    <h2>Softwares and Tools</h2>
+    <h2>برامج وأدوات</h2>
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
     <img src="https://img.shields.io/badge/Visual%20Studio-%23323330.svg?style=for-the-badge&logo=visual-studio&logoColor=%23F7DF1E" />
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
@@ -55,13 +55,13 @@
 
 ---
 <div style="text-align: center;">
-    <h2>Operating Systems</h2>
+    <h2>أنظمة التشغيل</h2>
     <img src="https://img.shields.io/badge/Windows-00A7FF?style=for-the-badge&logo=windows&logoColor=white">
 </div>
 
 ---
 <div style="text-align: center;">
-    <h2>Extras</h2>
+    <h2>إضافات</h2>
     <img src="https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white">
     <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
     <img src="https://img.shields.io/badge/Batchfile-%23007ACC.svg?style=for-the-badge&logo=batchfile&logoColor=white" />
@@ -69,51 +69,51 @@
 
 ---
 <div style="text-align: center;">
-    <h2>Github Stats</h2>
+    <h2>إحصائيات GitHub</h2>
     <a href="#github_stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=eyalgreenDev&show_icons=true" alt="EyalGreen's GitHub Stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=eyalgreenDev&show_icons=true" alt="إحصائيات GitHub لإيال">
     </a>
     <a href="#top-langs">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyalgreenDev&theme=dark&hide_border=true&include_all_commits=true&count_private=true" 
-            height="192px" alt="Top Langs">
+            height="192px" alt="أعلى اللغات المستخدمة">
     </a>
 </div>
 
 
 ---
 <div style="text-align: center;">
-    <h2>Go to Top</h2>
+    <h2>العودة إلى الأعلى</h2>
     <a href="#hello-there-im-eyalgreendev">
-        <img src="https://img.shields.io/badge/Go%20to%20Top-%E2%86%91-%23007bff?style=for-the-badge" alt="Go to Top">
+        <img src="https://img.shields.io/badge/العودة%20إلى%20الأعلى-%E2%86%91-%23007bff?style=for-the-badge" alt="العودة إلى الأعلى">
     </a>
 </div>
 
 ---
 <div style="text-align: center;">
-    <h2>Contact</h2>
+    <h2>التواصل</h2>
     <a href="https://discord.com/users/1135627677441736704">
-        <img src="https://lanyard.cnrad.dev/api/1135627677441736704" alt="Discord Presence">
+        <img src="https://lanyard.cnrad.dev/api/1135627677441736704" alt="حالة Discord">
     </a>
 </div>
 
 ---
 <div align="center">
-<h2>Read It in your Language</h2>
+<h2>اقرأه بلغتك</h2>
     <a href="README_he.md">
-    <img alt="Hebrew" title="Hebrew" 
+    <img alt="العبرية" title="العبرية" 
     src="photos/Israel.svg"/>
     </a>
-    <a href="README.md">
+        <a href="README.md">
     <img alt="English" title="English" 
     src="photos/usa.svg"/>
     </a>
-    <a href="README_ru.md">
-    <img alt="Russian" title="Russian" 
-    src="photos/russia.svg"/>
+    <a href="README_ar.md">
+    <img alt="العربية" title="العربية" 
+    src="photos/uae.svg"/>
     </a>
-    <a href="README_au.md">
-    <img alt="Ukraine" title="Ukraine" 
-    src="photos/Ukraine.svg"/>
+    <a href="README_ru.md">
+    <img alt="الروسية" title="الروسية" 
+    src="photos/russia.svg"/>
     </a>
 </div>
 <!-- Images by thefourcraft -->
