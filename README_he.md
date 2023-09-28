@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Impact&size=32&lines=hey%2C+welcome+to+my+github" alt="Typing Animation">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Impact&size=32&lines=היי%2C+ברוכים+הבאים+לדף+GitHub+שלי" alt="אנימציה טייפינג">
 </div>
 
 
@@ -9,9 +9,9 @@
     <ul>
         <li>שם: אייל</li>
         <li>גיל: 18</li>
-        <li>תחביבים: לשחק כדורסל , לתכנת , ללכת להתאמן</li>
-        <li>עובדה על עצמי: אני משחק כדורסל מגיל 4 🏀 ומתכנת מגיל 12</li>
-        <li>1 Day 1 Code 💖</li>
+        <li>תחביבים: אני אוהב לשחק בכדורסל, לתכנת, וללכת לחדר כושר</li>
+        <li>עובדה מעניינת: אני משחק בכדורסל מגיל 4 🏀 והייתי מפתח ב-JavaScript כבר 6 שנים 👩‍💻</li>
+        <li>יום 1, קוד 1 💖</li>
     </ul>
 </div>
 
@@ -38,7 +38,7 @@
 
 ---
 <div style="text-align: center;">
-    <h2>מסדי נתונים</h2>
+    <h2>טכנולוגיות מסדי הנתונים</h2>
     <img src="https://img.shields.io/badge/MongoDB-%2317ad55.svg?style=for-the-badge&logo=mongodb&logoColor=white">
     <img src="https://img.shields.io/badge/Sqlite-%2309435b.svg?style=for-the-badge&logo=sqlite&logoColor=white">
     <img src="https://img.shields.io/badge/MYSQL-%23e59008.svg?style=for-the-badge&logo=mysql&logoColor=white">
@@ -69,30 +69,30 @@
 
 ---
 <div style="text-align: center;">
-    <h2>Github Stats</h2>
+    <h2>סטטיסטיקות GitHub</h2>
     <a href="#github_stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=eyalgreenDev&show_icons=true" alt="EyalGreen's GitHub Stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=eyalgreenDev&show_icons=true" alt="סטטיסטיקות GitHub של EyalGreen">
     </a>
     <a href="#top-langs">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyalgreenDev&theme=dark&hide_border=true&include_all_commits=true&count_private=true" 
-            height="192px" alt="Top Langs">
+            height="192px" alt="שפות התכנות הנפוצות">
     </a>
 </div>
 
 
 ---
 <div style="text-align: center;">
-    <h2>חזור למעלה</h2>
+    <h2>חזרה למעלה</h2>
     <a href="#hello-there-im-eyalgreendev">
-        <img src="https://img.shields.io/badge/Go%20to%20Top-%E2%86%91-%23007bff?style=for-the-badge" alt="Go to Top">
+        <img src="https://img.shields.io/badge/חזרה%20למעלה-%E2%86%91-%23007bff?style=for-the-badge" alt="חזרה למעלה">
     </a>
 </div>
 
 ---
 <div style="text-align: center;">
-    <h2>פנייה</h2>
+    <h2>צור קשר</h2>
     <a href="https://discord.com/users/1135627677441736704">
-        <img src="https://lanyard.cnrad.dev/api/1135627677441736704" alt="Discord Presence">
+        <img src="https://lanyard.cnrad.dev/api/1135627677441736704" alt="נוכחות Discord">
     </a>
 </div>
 
@@ -100,20 +100,19 @@
 <div align="center">
 <h2>קרא את זה בשפה שלך</h2>
     <a href="README_he.md">
-    <img alt="Hebrew" title="Hebrew" 
+    <img alt="עברית" title="עברית" 
     src="photos/Israel.svg"/>
     </a>
         <a href="README.md">
-    <img alt="English" title="English" 
-    src="photos/usa.svg"/>
+    <img alt="אנגלית" title="אנגלית" 
+    src="photos/Usa.svg"/>
     </a>
     <a href="README_ar.md">
-    <img alt="Arbic" title="Arbic" 
+    <img alt="ערבית" title="ערבית" 
     src="photos/uae.svg"/>
     </a>
     <a href="README_ru.md">
-    <img alt="Russian" title="Russian" 
+    <img alt="רוסית" title="רוסית" 
     src="photos/russia.svg"/>
     </a>
 </div>
-<!-- Images by thefourcraft -->
