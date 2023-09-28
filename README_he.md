@@ -1,6 +1,7 @@
 <div style="text-align: center;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Impact&size=32&lines=היי%2C+ברוכים+הבאים+לדף+GitHub+שלי" alt="אנימציה טייפינג">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Impact&size=32&lines=hey%2C+welcome+to+my+github" alt="Typing Animation">
 </div>
+
 
 
 ---
