@@ -71,7 +71,7 @@
 <div style="text-align: center;">
     <h2>إحصائيات GitHub</h2>
     <a href="#github_stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=eyalgreenDev&show_icons=true" alt="إحصائيات GitHub لإيال">
+        <img src="https://github-readme-stats.vercel.app/api?username=eyalgreenDev&show_icons=true&theme=dark" alt="إحصائيات GitHub لإيال">
     </a>
     <a href="#top-langs">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyalgreenDev&theme=dark&hide_border=true&include_all_commits=true&count_private=true" 
