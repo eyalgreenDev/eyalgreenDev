@@ -75,11 +75,19 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyalgreenDev&theme=dark&hide_border=true&include_all_commits=true&count_private=true" 
             height="192px" alt="Top Langs">
     </a>
-    < a href="views">
-<img src="https://visitor-badge.glitch.me/badge?page_id=eyalgreenDev.eyalgreenDev">
+<div style="text-align: center;">
+    <h2>Github Stats</h2>
+    <a href="#github_stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=eyalgreenDev&show_icons=true&theme=dark" alt="EyalGreen's GitHub Stats">
+    </a>
+    <a href="#top-langs">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyalgreenDev&theme=dark&hide_border=true&include_all_commits=true&count_private=true" 
+            height="192px" alt="Top Langs">
+    </a>
+    <a href="https://github.com/eyalgreenDev">
+        <img src="https://visitor-badge.glitch.me/badge?page_id=eyalgreenDev.eyalgreenDev" alt="Profile Views">
     </a>
 </div>
-
 
 ---
 <div style="text-align: center;">
