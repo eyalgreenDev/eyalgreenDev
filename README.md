@@ -75,6 +75,9 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyalgreenDev&theme=dark&hide_border=true&include_all_commits=true&count_private=true" 
             height="192px" alt="Top Langs">
     </a>
+    < a href="views">
+<img src="https://visitor-badge.glitch.me/badge?page_id=eyalgreenDev.eyalgreenDev">
+    </a>
 </div>
 
 
